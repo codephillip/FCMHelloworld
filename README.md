@@ -1,8 +1,8 @@
 # FCMHelloworld
 FCM helloworld project. Testing notifications when the app is closed(by swiping from recent activity)
 
-There is a major issue of Chinese phones changing the OS to kill apps(services,alarms,FCM) when they are closed.
-There is also an issue of messages not getting delivered when users don't pay the OTT(Over-the-top) Tax
+* There is a major issue of Chinese phones changing the OS to kill apps(services,alarms,FCM) when they are closed.
+* There is also an issue of messages not getting delivered when users don't pay the OTT(Over-the-top) Tax
 
 ## References
 
