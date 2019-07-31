@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FCMHelloWorld</string>
+    <string name="msg_token_fmt" translatable="false">InstanceID Token: %s</string>
+    <string name="fcm_message">Title message</string>
+</resources>

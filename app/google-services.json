@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "312805498385",
+    "firebase_url": "https://fcmhelloworld-683e6.firebaseio.com",
+    "project_id": "fcmhelloworld-683e6",
+    "storage_bucket": "fcmhelloworld-683e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312805498385:android:6a14279d7b76cf10",
+        "android_client_info": {
+          "package_name": "com.codephillip.fcmhelloworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312805498385-c9p2fueu0069e577ihnf7g9e5nhl8t5g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codephillip.fcmhelloworld",
+            "certificate_hash": "f35f9d6de6edd310e53d2a356ce7c4f9fdca4a8a"
+          }
+        },
+        {
+          "client_id": "312805498385-cqrgl0rlffc3cn6k74duk9meb7nnea27.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnQDpayrNM3vHffVid3qJZdrmozGlpb-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "312805498385-cqrgl0rlffc3cn6k74duk9meb7nnea27.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
