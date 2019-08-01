@@ -13,5 +13,5 @@ https://stackoverflow.com/questions/54321965/fcm-notification-not-working-in-chi
 
 This project is to help rectify that issue and come up with a solution.
 
-### Anyone with a solution could send inbox me codephillip@gmail.com or create a pull request.
+### Anyone with a solution could inbox me codephillip@gmail.com or create a pull request.
 Thank you
